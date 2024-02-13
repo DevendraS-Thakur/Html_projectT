@@ -1,0 +1,7 @@
+git init // to initialize repository
+
+
+adding file into local
+git add .
+git commit -m "Write your message"
+git push -u origin main
